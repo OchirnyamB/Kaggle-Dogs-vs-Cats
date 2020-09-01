@@ -53,7 +53,9 @@ SOFTMAX | 1000 |
 [The dataset contains 25,000 images of dogs and cats](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 ### Evaluations of the Trained Networks:
+* Training AlexNet from scratch: [90% Accuracy](output/training_process.txt)
 
+* Fine tuning on ResNet
 
 ### References:
 * Deep Learning for Computer Vision with Python VOL1 & VOL2 by Dr.Adrian Rosebrock
